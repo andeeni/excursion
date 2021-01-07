@@ -5,13 +5,24 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header--main{
+.header-1{
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.link--cta{
+.header-2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.header-sub{
+    font-size: 21px;
+    color: grey;
+}
+
+.link-cta{
     font-size: 16px;
     color: aquamarine;
 }
